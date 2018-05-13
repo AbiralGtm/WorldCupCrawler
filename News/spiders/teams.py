@@ -9,24 +9,27 @@ class TeamsSpider(scrapy.Spider):
 
     def parse(self, response):
         teams = response.xpath('//*[@class="team"]')
-
         for team in teams:
-        	id_no = team.xpath('.//@href').extract_first()[21:26]
-        	name = team.xpath('.//*[@class="team-name"]/text()').extract_first()
-        	flag_img = team.xpath('.//img/@src').extract_first()
-        	# fifa_rank = 
-        	# appearances = 
-        	# titles =  
+            id_no = team.xpath('.//@href').extract_first()[21:26]
+            name = team.xpath('.//*[@class="team-name"]/text()').extract_first()
+            flag_img = team.xpath('.//img/@src').extract_first()
+            url = response.urljoin(team.xpath('.//@href').extract_first())
+            yield scrapy.Request(url,
+                                 callback=self.parse_team,
+                                 meta={'main': {
+                                     'id': id_no,
+                                     'team_name': name,
+                                     'flag_img': flag_img,
+                                     'team_info': {}
+                                 }})
 
-        	yield {
-        		'id': id_no,
-        		'team_name': name,
-        		'flag_img': flag_img,
-        	}
-
-
-	# def parse(self, response):
-
-
-
-
+    def parse_team(self, response):
+        appearances = response.xpath('//*[@class="table"]//*[@class="num"]/text()')[0].extract()
+        titles = response.xpath('//*[@class="table"]//*[@class="num"]/text()')[1].extract()
+        fifa_rank = response.xpath('//*[@class="table"]//*[@class="num"]/text()')[2].extract()
+        final_dict = response.meta.get('main')
+        final_dict['team_info'] = {
+            'appearances': appearances,
+            'titles': titles,
+            'fifa_rank': fifa_rank}
+        return final_dict
