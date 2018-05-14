@@ -1,0 +1,322 @@
+[
+  {
+    "id": 43855,
+    "team_name": "Egypt",
+    "flag_img": "//img.fifa.com/images/flags/3/egy.png",
+    "team_info": {
+      "appearances": "2",
+      "titles": "0",
+      "fifa_rank": "31"
+    }
+  },
+  {
+    "id": 43876,
+    "team_name": "Nigeria",
+    "flag_img": "//img.fifa.com/images/flags/3/nga.png",
+    "team_info": {
+      "appearances": "5",
+      "titles": "0",
+      "fifa_rank": "50"
+    }
+  },
+  {
+    "id": 43922,
+    "team_name": "Argentina",
+    "flag_img": "//img.fifa.com/images/flags/3/arg.png",
+    "team_info": {
+      "appearances": "16",
+      "titles": "2",
+      "fifa_rank": "4"
+    }
+  },
+  {
+    "id": 43879,
+    "team_name": "Senegal",
+    "flag_img": "//img.fifa.com/images/flags/3/sen.png",
+    "team_info": {
+      "appearances": "1",
+      "titles": "0",
+      "fifa_rank": "23"
+    }
+  },
+  {
+    "id": 43888,
+    "team_name": "Tunisia",
+    "flag_img": "//img.fifa.com/images/flags/3/tun.png",
+    "team_info": {
+      "appearances": "4",
+      "titles": "0",
+      "fifa_rank": "27"
+    }
+  },
+  {
+    "id": 43817,
+    "team_name": "IR Iran",
+    "flag_img": "//img.fifa.com/images/flags/3/irn.png",
+    "team_info": {
+      "appearances": "4",
+      "titles": "0",
+      "fifa_rank": "32"
+    }
+  },
+  {
+    "id": 43976,
+    "team_name": "Australia",
+    "flag_img": "//img.fifa.com/images/flags/3/aus.png",
+    "team_info": {
+      "appearances": "4",
+      "titles": "0",
+      "fifa_rank": "39"
+    }
+  },
+  {
+    "id": 43872,
+    "team_name": "Morocco",
+    "flag_img": "//img.fifa.com/images/flags/3/mar.png",
+    "team_info": {
+      "appearances": "4",
+      "titles": "0",
+      "fifa_rank": "40"
+    }
+  },
+  {
+    "id": 43914,
+    "team_name": "Panama",
+    "flag_img": "//img.fifa.com/images/flags/3/pan.png",
+    "team_info": {
+      "appearances": "0",
+      "titles": "0",
+      "fifa_rank": "56"
+    }
+  },
+  {
+    "id": 43911,
+    "team_name": "Mexico",
+    "flag_img": "//img.fifa.com/images/flags/3/mex.png",
+    "team_info": {
+      "appearances": "15",
+      "titles": "0",
+      "fifa_rank": "16"
+    }
+  },
+  {
+    "id": 43901,
+    "team_name": "Costa Rica",
+    "flag_img": "//img.fifa.com/images/flags/3/crc.png",
+    "team_info": {
+      "appearances": "4",
+      "titles": "0",
+      "fifa_rank": "26"
+    }
+  },
+  {
+    "id": 43819,
+    "team_name": "Japan",
+    "flag_img": "//img.fifa.com/images/flags/3/jpn.png",
+    "team_info": {
+      "appearances": "5",
+      "titles": "0",
+      "fifa_rank": "55"
+    }
+  },
+  {
+    "id": 43971,
+    "team_name": "Switzerland",
+    "flag_img": "//img.fifa.com/images/flags/3/sui.png",
+    "team_info": {
+      "appearances": "10",
+      "titles": "0",
+      "fifa_rank": "8"
+    }
+  },
+  {
+    "id": 43970,
+    "team_name": "Sweden",
+    "flag_img": "//img.fifa.com/images/flags/3/swe.png",
+    "team_info": {
+      "appearances": "11",
+      "titles": "0",
+      "fifa_rank": "18"
+    }
+  },
+  {
+    "id": 43969,
+    "team_name": "Spain",
+    "flag_img": "//img.fifa.com/images/flags/3/esp.png",
+    "team_info": {
+      "appearances": "14",
+      "titles": "1",
+      "fifa_rank": "6"
+    }
+  },
+  {
+    "id": 19024,
+    "team_name": "Serbia",
+    "flag_img": "//img.fifa.com/images/flags/3/srb.png",
+    "team_info": {
+      "appearances": "11",
+      "titles": "0",
+      "fifa_rank": "37"
+    }
+  },
+  {
+    "id": 43929,
+    "team_name": "Peru",
+    "flag_img": "//img.fifa.com/images/flags/3/per.png",
+    "team_info": {
+      "appearances": "4",
+      "titles": "0",
+      "fifa_rank": "11"
+    }
+  },
+  {
+    "id": 43924,
+    "team_name": "Brazil",
+    "flag_img": "//img.fifa.com/images/flags/3/bra.png",
+    "team_info": {
+      "appearances": "20",
+      "titles": "5",
+      "fifa_rank": "2"
+    }
+  },
+  {
+    "id": 43965,
+    "team_name": "Russia",
+    "flag_img": "//img.fifa.com/images/flags/3/rus.png",
+    "team_info": {
+      "appearances": "10",
+      "titles": "0",
+      "fifa_rank": "65"
+    }
+  },
+  {
+    "id": 43926,
+    "team_name": "Colombia",
+    "flag_img": "//img.fifa.com/images/flags/3/col.png",
+    "team_info": {
+      "appearances": "5",
+      "titles": "0",
+      "fifa_rank": "13"
+    }
+  },
+  {
+    "id": 43963,
+    "team_name": "Portugal",
+    "flag_img": "//img.fifa.com/images/flags/3/por.png",
+    "team_info": {
+      "appearances": "6",
+      "titles": "0",
+      "fifa_rank": "3"
+    }
+  },
+  {
+    "id": 43962,
+    "team_name": "Poland",
+    "flag_img": "//img.fifa.com/images/flags/3/pol.png",
+    "team_info": {
+      "appearances": "7",
+      "titles": "0",
+      "fifa_rank": "7"
+    }
+  },
+  {
+    "id": 43951,
+    "team_name": "Iceland",
+    "flag_img": "//img.fifa.com/images/flags/3/isl.png",
+    "team_info": {
+      "appearances": "0",
+      "titles": "0",
+      "fifa_rank": "22"
+    }
+  },
+  {
+    "id": 43930,
+    "team_name": "Uruguay",
+    "flag_img": "//img.fifa.com/images/flags/3/uru.png",
+    "team_info": {
+      "appearances": "12",
+      "titles": "2",
+      "fifa_rank": "21"
+    }
+  },
+  {
+    "id": 43948,
+    "team_name": "Germany",
+    "flag_img": "//img.fifa.com/images/flags/3/ger.png",
+    "team_info": {
+      "appearances": "18",
+      "titles": "4",
+      "fifa_rank": "1"
+    }
+  },
+  {
+    "id": 43946,
+    "team_name": "France",
+    "flag_img": "//img.fifa.com/images/flags/3/fra.png",
+    "team_info": {
+      "appearances": "14",
+      "titles": "1",
+      "fifa_rank": "9"
+    }
+  },
+  {
+    "id": 43942,
+    "team_name": "England",
+    "flag_img": "//img.fifa.com/images/flags/3/eng.png",
+    "team_info": {
+      "appearances": "14",
+      "titles": "1",
+      "fifa_rank": "15"
+    }
+  },
+  {
+    "id": 43941,
+    "team_name": "Denmark",
+    "flag_img": "//img.fifa.com/images/flags/3/den.png",
+    "team_info": {
+      "appearances": "4",
+      "titles": "0",
+      "fifa_rank": "12"
+    }
+  },
+  {
+    "id": 43938,
+    "team_name": "Croatia",
+    "flag_img": "//img.fifa.com/images/flags/3/cro.png",
+    "team_info": {
+      "appearances": "4",
+      "titles": "0",
+      "fifa_rank": "17"
+    }
+  },
+  {
+    "id": 43935,
+    "team_name": "Belgium",
+    "flag_img": "//img.fifa.com/images/flags/3/bel.png",
+    "team_info": {
+      "appearances": "12",
+      "titles": "0",
+      "fifa_rank": "5"
+    }
+  },
+  {
+    "id": 43835,
+    "team_name": "Saudi Arabia",
+    "flag_img": "//img.fifa.com/images/flags/3/ksa.png",
+    "team_info": {
+      "appearances": "4",
+      "titles": "0",
+      "fifa_rank": "63"
+    }
+  },
+  {
+    "id": 43822,
+    "team_name": "Korea Republic",
+    "flag_img": "//img.fifa.com/images/flags/3/kor.png",
+    "team_info": {
+      "appearances": "9",
+      "titles": "0",
+      "fifa_rank": "59"
+    }
+  }
+]

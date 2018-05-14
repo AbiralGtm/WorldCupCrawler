@@ -1,0 +1,210 @@
+[
+  {
+    "id": "300331537",
+    "date_time": "30 Jun 2018 - 17:00",
+    "stadium": {
+      "name": "Kazan Arena",
+      "id": 3
+    },
+    "city": "Kazan",
+    "teams": [
+      "1C",
+      "2D"
+    ]
+  },
+  {
+    "id": "300331544",
+    "date_time": "30 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Fisht Stadium",
+      "id": 1
+    },
+    "city": "Sochi",
+    "teams": [
+      "1A",
+      "2B"
+    ]
+  },
+  {
+    "id": "300331517",
+    "date_time": "01 Jul 2018 - 17:00",
+    "stadium": {
+      "name": "Luzhniki Stadium",
+      "id": 4
+    },
+    "city": "Moscow",
+    "teams": [
+      "1B",
+      "2A"
+    ]
+  },
+  {
+    "id": "300331498",
+    "date_time": "01 Jul 2018 - 21:00",
+    "stadium": {
+      "name": "Nizhny Novgorod Stadium",
+      "id": 6
+    },
+    "city": "Nizhny Novgorod",
+    "teams": [
+      "1D",
+      "2C"
+    ]
+  },
+  {
+    "id": "300331535",
+    "date_time": "02 Jul 2018 - 18:00",
+    "stadium": {
+      "name": "Samara Arena",
+      "id": 9
+    },
+    "city": "Samara",
+    "teams": [
+      "1E",
+      "2F"
+    ]
+  },
+  {
+    "id": "300331551",
+    "date_time": "02 Jul 2018 - 21:00",
+    "stadium": {
+      "name": "Rostov Arena",
+      "id": 7
+    },
+    "city": "Rostov-On-Don",
+    "teams": [
+      "1G",
+      "2H"
+    ]
+  },
+  {
+    "id": "300331514",
+    "date_time": "03 Jul 2018 - 17:00",
+    "stadium": {
+      "name": "Saint Petersburg Stadium",
+      "id": 8
+    },
+    "city": "St. Petersburg",
+    "teams": [
+      "1F",
+      "2E"
+    ]
+  },
+  {
+    "id": "300331542",
+    "date_time": "03 Jul 2018 - 21:00",
+    "stadium": {
+      "name": "Spartak Stadium",
+      "id": 10
+    },
+    "city": "Moscow",
+    "teams": [
+      "1H",
+      "2G"
+    ]
+  },
+  {
+    "id": "300331543",
+    "date_time": "06 Jul 2018 - 17:00",
+    "stadium": {
+      "name": "Nizhny Novgorod Stadium",
+      "id": 6
+    },
+    "city": "Nizhny Novgorod",
+    "teams": [
+      "W49",
+      "W50"
+    ]
+  },
+  {
+    "id": "300331538",
+    "date_time": "06 Jul 2018 - 21:00",
+    "stadium": {
+      "name": "Kazan Arena",
+      "id": 3
+    },
+    "city": "Kazan",
+    "teams": [
+      "W53",
+      "W54"
+    ]
+  },
+  {
+    "id": "300331541",
+    "date_time": "07 Jul 2018 - 18:00",
+    "stadium": {
+      "name": "Samara Arena",
+      "id": 9
+    },
+    "city": "Samara",
+    "teams": [
+      "W55",
+      "W56"
+    ]
+  },
+  {
+    "id": "300331504",
+    "date_time": "07 Jul 2018 - 21:00",
+    "stadium": {
+      "name": "Fisht Stadium",
+      "id": 1
+    },
+    "city": "Sochi",
+    "teams": [
+      "W51",
+      "W52"
+    ]
+  },
+  {
+    "id": "300331531",
+    "date_time": "10 Jul 2018 - 21:00",
+    "stadium": {
+      "name": "Saint Petersburg Stadium",
+      "id": 8
+    },
+    "city": "St. Petersburg",
+    "teams": [
+      "W57",
+      "W58"
+    ]
+  },
+  {
+    "id": "300331522",
+    "date_time": "11 Jul 2018 - 21:00",
+    "stadium": {
+      "name": "Luzhniki Stadium",
+      "id": 4
+    },
+    "city": "Moscow",
+    "teams": [
+      "W59",
+      "W60"
+    ]
+  },
+  {
+    "id": "300331536",
+    "date_time": "14 Jul 2018 - 17:00",
+    "stadium": {
+      "name": "Saint Petersburg Stadium",
+      "id": 8
+    },
+    "city": "St. Petersburg",
+    "teams": [
+      "L61",
+      "L62"
+    ]
+  },
+  {
+    "id": "300331552",
+    "date_time": "15 Jul 2018 - 18:00",
+    "stadium": {
+      "name": "Luzhniki Stadium",
+      "id": 4
+    },
+    "city": "Moscow",
+    "teams": [
+      "W61",
+      "W62"
+    ]
+  }
+]

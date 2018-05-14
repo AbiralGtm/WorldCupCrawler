@@ -1,0 +1,626 @@
+[
+  {
+    "id": "300331503",
+    "date_time": "14 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Luzhniki Stadium",
+      "id": 4
+    },
+    "city": "Moscow",
+    "teams": [
+      "Russia",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "id": "300353632",
+    "date_time": "15 Jun 2018 - 17:00",
+    "stadium": {
+      "name": "Ekaterinburg Arena",
+      "id": 0
+    },
+    "city": "Ekaterinburg",
+    "teams": [
+      "Egypt",
+      "Uruguay"
+    ]
+  },
+  {
+    "id": "300331526",
+    "date_time": "15 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Saint Petersburg Stadium",
+      "id": 8
+    },
+    "city": "St. Petersburg",
+    "teams": [
+      "Morocco",
+      "IR Iran"
+    ]
+  },
+  {
+    "id": "300331524",
+    "date_time": "15 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Fisht Stadium",
+      "id": 1
+    },
+    "city": "Sochi",
+    "teams": [
+      "Portugal",
+      "Spain"
+    ]
+  },
+  {
+    "id": "300331533",
+    "date_time": "16 Jun 2018 - 13:00",
+    "stadium": {
+      "name": "Kazan Arena",
+      "id": 3
+    },
+    "city": "Kazan",
+    "teams": [
+      "France",
+      "Australia"
+    ]
+  },
+  {
+    "id": "300331515",
+    "date_time": "16 Jun 2018 - 16:00",
+    "stadium": {
+      "name": "Spartak Stadium",
+      "id": 10
+    },
+    "city": "Moscow",
+    "teams": [
+      "Argentina",
+      "Iceland"
+    ]
+  },
+  {
+    "id": "300331528",
+    "date_time": "16 Jun 2018 - 19:00",
+    "stadium": {
+      "name": "Mordovia Arena",
+      "id": 5
+    },
+    "city": "Saransk",
+    "teams": [
+      "Peru",
+      "Denmark"
+    ]
+  },
+  {
+    "id": "300331523",
+    "date_time": "16 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Kaliningrad Stadium",
+      "id": 2
+    },
+    "city": "Kaliningrad",
+    "teams": [
+      "Croatia",
+      "Nigeria"
+    ]
+  },
+  {
+    "id": "300331529",
+    "date_time": "17 Jun 2018 - 16:00",
+    "stadium": {
+      "name": "Samara Arena",
+      "id": 9
+    },
+    "city": "Samara",
+    "teams": [
+      "Costa Rica",
+      "Serbia"
+    ]
+  },
+  {
+    "id": "300331502",
+    "date_time": "17 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Luzhniki Stadium",
+      "id": 4
+    },
+    "city": "Moscow",
+    "teams": [
+      "Germany",
+      "Mexico"
+    ]
+  },
+  {
+    "id": "300331525",
+    "date_time": "17 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Rostov Arena",
+      "id": 7
+    },
+    "city": "Rostov-On-Don",
+    "teams": [
+      "Brazil",
+      "Switzerland"
+    ]
+  },
+  {
+    "id": "300331499",
+    "date_time": "18 Jun 2018 - 15:00",
+    "stadium": {
+      "name": "Nizhny Novgorod Stadium",
+      "id": 6
+    },
+    "city": "Nizhny Novgorod",
+    "teams": [
+      "Sweden",
+      "Korea Republic"
+    ]
+  },
+  {
+    "id": "300331539",
+    "date_time": "18 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Fisht Stadium",
+      "id": 1
+    },
+    "city": "Sochi",
+    "teams": [
+      "Belgium",
+      "Panama"
+    ]
+  },
+  {
+    "id": "300331554",
+    "date_time": "18 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Volgograd Arena",
+      "id": 11
+    },
+    "city": "Volgograd",
+    "teams": [
+      "Tunisia",
+      "England"
+    ]
+  },
+  {
+    "id": "300331550",
+    "date_time": "19 Jun 2018 - 15:00",
+    "stadium": {
+      "name": "Mordovia Arena",
+      "id": 5
+    },
+    "city": "Saransk",
+    "teams": [
+      "Colombia",
+      "Japan"
+    ]
+  },
+  {
+    "id": "300331545",
+    "date_time": "19 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Spartak Stadium",
+      "id": 10
+    },
+    "city": "Moscow",
+    "teams": [
+      "Poland",
+      "Senegal"
+    ]
+  },
+  {
+    "id": "300331495",
+    "date_time": "19 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Saint Petersburg Stadium",
+      "id": 8
+    },
+    "city": "St. Petersburg",
+    "teams": [
+      "Russia",
+      "Egypt"
+    ]
+  },
+  {
+    "id": "300331511",
+    "date_time": "20 Jun 2018 - 15:00",
+    "stadium": {
+      "name": "Luzhniki Stadium",
+      "id": 4
+    },
+    "city": "Moscow",
+    "teams": [
+      "Portugal",
+      "Morocco"
+    ]
+  },
+  {
+    "id": "300331530",
+    "date_time": "20 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Rostov Arena",
+      "id": 7
+    },
+    "city": "Rostov-On-Don",
+    "teams": [
+      "Uruguay",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "id": "300331496",
+    "date_time": "20 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Kazan Arena",
+      "id": 3
+    },
+    "city": "Kazan",
+    "teams": [
+      "IR Iran",
+      "Spain"
+    ]
+  },
+  {
+    "id": "300331518",
+    "date_time": "21 Jun 2018 - 16:00",
+    "stadium": {
+      "name": "Samara Arena",
+      "id": 9
+    },
+    "city": "Samara",
+    "teams": [
+      "Denmark",
+      "Australia"
+    ]
+  },
+  {
+    "id": "300331527",
+    "date_time": "21 Jun 2018 - 20:00",
+    "stadium": {
+      "name": "Ekaterinburg Arena",
+      "id": 0
+    },
+    "city": "Ekaterinburg",
+    "teams": [
+      "France",
+      "Peru"
+    ]
+  },
+  {
+    "id": "300331513",
+    "date_time": "21 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Nizhny Novgorod Stadium",
+      "id": 6
+    },
+    "city": "Nizhny Novgorod",
+    "teams": [
+      "Argentina",
+      "Croatia"
+    ]
+  },
+  {
+    "id": "300331540",
+    "date_time": "22 Jun 2018 - 15:00",
+    "stadium": {
+      "name": "Saint Petersburg Stadium",
+      "id": 8
+    },
+    "city": "St. Petersburg",
+    "teams": [
+      "Brazil",
+      "Costa Rica"
+    ]
+  },
+  {
+    "id": "300331497",
+    "date_time": "22 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Volgograd Arena",
+      "id": 11
+    },
+    "city": "Volgograd",
+    "teams": [
+      "Nigeria",
+      "Iceland"
+    ]
+  },
+  {
+    "id": "300340183",
+    "date_time": "22 Jun 2018 - 20:00",
+    "stadium": {
+      "name": "Kaliningrad Stadium",
+      "id": 2
+    },
+    "city": "Kaliningrad",
+    "teams": [
+      "Serbia",
+      "Switzerland"
+    ]
+  },
+  {
+    "id": "300331547",
+    "date_time": "23 Jun 2018 - 15:00",
+    "stadium": {
+      "name": "Spartak Stadium",
+      "id": 10
+    },
+    "city": "Moscow",
+    "teams": [
+      "Belgium",
+      "Tunisia"
+    ]
+  },
+  {
+    "id": "300331549",
+    "date_time": "23 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Rostov Arena",
+      "id": 7
+    },
+    "city": "Rostov-On-Don",
+    "teams": [
+      "Korea Republic",
+      "Mexico"
+    ]
+  },
+  {
+    "id": "300331501",
+    "date_time": "23 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Fisht Stadium",
+      "id": 1
+    },
+    "city": "Sochi",
+    "teams": [
+      "Germany",
+      "Sweden"
+    ]
+  },
+  {
+    "id": "300331546",
+    "date_time": "24 Jun 2018 - 15:00",
+    "stadium": {
+      "name": "Nizhny Novgorod Stadium",
+      "id": 6
+    },
+    "city": "Nizhny Novgorod",
+    "teams": [
+      "England",
+      "Panama"
+    ]
+  },
+  {
+    "id": "300331505",
+    "date_time": "24 Jun 2018 - 20:00",
+    "stadium": {
+      "name": "Ekaterinburg Arena",
+      "id": 0
+    },
+    "city": "Ekaterinburg",
+    "teams": [
+      "Japan",
+      "Senegal"
+    ]
+  },
+  {
+    "id": "300331508",
+    "date_time": "24 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Kazan Arena",
+      "id": 3
+    },
+    "city": "Kazan",
+    "teams": [
+      "Poland",
+      "Colombia"
+    ]
+  },
+  {
+    "id": "300331516",
+    "date_time": "25 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Samara Arena",
+      "id": 9
+    },
+    "city": "Samara",
+    "teams": [
+      "Uruguay",
+      "Russia"
+    ]
+  },
+  {
+    "id": "300331509",
+    "date_time": "25 Jun 2018 - 17:00",
+    "stadium": {
+      "name": "Volgograd Arena",
+      "id": 11
+    },
+    "city": "Volgograd",
+    "teams": [
+      "Saudi Arabia",
+      "Egypt"
+    ]
+  },
+  {
+    "id": "300340184",
+    "date_time": "25 Jun 2018 - 20:00",
+    "stadium": {
+      "name": "Kaliningrad Stadium",
+      "id": 2
+    },
+    "city": "Kaliningrad",
+    "teams": [
+      "Spain",
+      "Morocco"
+    ]
+  },
+  {
+    "id": "300331500",
+    "date_time": "25 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Mordovia Arena",
+      "id": 5
+    },
+    "city": "Saransk",
+    "teams": [
+      "IR Iran",
+      "Portugal"
+    ]
+  },
+  {
+    "id": "300331506",
+    "date_time": "26 Jun 2018 - 17:00",
+    "stadium": {
+      "name": "Fisht Stadium",
+      "id": 1
+    },
+    "city": "Sochi",
+    "teams": [
+      "Australia",
+      "Peru"
+    ]
+  },
+  {
+    "id": "300331512",
+    "date_time": "26 Jun 2018 - 17:00",
+    "stadium": {
+      "name": "Luzhniki Stadium",
+      "id": 4
+    },
+    "city": "Moscow",
+    "teams": [
+      "Denmark",
+      "France"
+    ]
+  },
+  {
+    "id": "300331519",
+    "date_time": "26 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Saint Petersburg Stadium",
+      "id": 8
+    },
+    "city": "St. Petersburg",
+    "teams": [
+      "Nigeria",
+      "Argentina"
+    ]
+  },
+  {
+    "id": "300331510",
+    "date_time": "26 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Rostov Arena",
+      "id": 7
+    },
+    "city": "Rostov-On-Don",
+    "teams": [
+      "Iceland",
+      "Croatia"
+    ]
+  },
+  {
+    "id": "300331532",
+    "date_time": "27 Jun 2018 - 17:00",
+    "stadium": {
+      "name": "Kazan Arena",
+      "id": 3
+    },
+    "city": "Kazan",
+    "teams": [
+      "Korea Republic",
+      "Germany"
+    ]
+  },
+  {
+    "id": "300331548",
+    "date_time": "27 Jun 2018 - 19:00",
+    "stadium": {
+      "name": "Ekaterinburg Arena",
+      "id": 0
+    },
+    "city": "Ekaterinburg",
+    "teams": [
+      "Mexico",
+      "Sweden"
+    ]
+  },
+  {
+    "id": "300331521",
+    "date_time": "27 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Spartak Stadium",
+      "id": 10
+    },
+    "city": "Moscow",
+    "teams": [
+      "Serbia",
+      "Brazil"
+    ]
+  },
+  {
+    "id": "300331534",
+    "date_time": "27 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Nizhny Novgorod Stadium",
+      "id": 6
+    },
+    "city": "Nizhny Novgorod",
+    "teams": [
+      "Switzerland",
+      "Costa Rica"
+    ]
+  },
+  {
+    "id": "300331507",
+    "date_time": "28 Jun 2018 - 17:00",
+    "stadium": {
+      "name": "Volgograd Arena",
+      "id": 11
+    },
+    "city": "Volgograd",
+    "teams": [
+      "Japan",
+      "Poland"
+    ]
+  },
+  {
+    "id": "300331553",
+    "date_time": "28 Jun 2018 - 18:00",
+    "stadium": {
+      "name": "Samara Arena",
+      "id": 9
+    },
+    "city": "Samara",
+    "teams": [
+      "Senegal",
+      "Colombia"
+    ]
+  },
+  {
+    "id": "300331520",
+    "date_time": "28 Jun 2018 - 21:00",
+    "stadium": {
+      "name": "Mordovia Arena",
+      "id": 5
+    },
+    "city": "Saransk",
+    "teams": [
+      "Panama",
+      "Tunisia"
+    ]
+  },
+  {
+    "id": "300340182",
+    "date_time": "28 Jun 2018 - 20:00",
+    "stadium": {
+      "name": "Kaliningrad Stadium",
+      "id": 2
+    },
+    "city": "Kaliningrad",
+    "teams": [
+      "England",
+      "Belgium"
+    ]
+  }
+]
