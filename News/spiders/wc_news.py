@@ -16,9 +16,9 @@ class WcNewsSpider(scrapy.Spider):
             url = news.xpath('.//*[@class="news-list__headline"]/a/@href').extract_first()
             data_id = news.xpath('.//@data-id').extract_first()
             yield {
-                'Headline': headline,
+                'Headline': headline.strip(),
                 'Thumb_img': thumb_img,
-                'Description': description,
+                'Description': description.strip(),
                 'Url': url,
                 'Data_id': data_id
             }

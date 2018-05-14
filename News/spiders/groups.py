@@ -16,7 +16,7 @@ class GroupsSpider(scrapy.Spider):
             teams_ids = group.xpath('.//tbody/tr/@data-team-id').extract()
 
             yield {
-                'id': id_no,
-                'name': name,
+                'id': int(id_no),
+                'name': name.strip(),
                 'teams_ids': teams_ids,
             }

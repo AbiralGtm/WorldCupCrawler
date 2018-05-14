@@ -17,9 +17,11 @@ class TeamsSpider(scrapy.Spider):
             yield scrapy.Request(url,
                                  callback=self.parse_team,
                                  meta={'main': {
-                                     'id': id_no,
-                                     'team_name': name,
+                                     'id': int(id_no),
+                                     'team_name': name.strip(),
                                      'flag_img': flag_img,
+                                     'stats': None,
+                                     'group': None,
                                      'team_info': {}
                                  }})
 
@@ -29,7 +31,7 @@ class TeamsSpider(scrapy.Spider):
         fifa_rank = response.xpath('//*[@class="table"]//*[@class="num"]/text()')[2].extract()
         final_dict = response.meta.get('main')
         final_dict['team_info'] = {
-            'appearances': appearances,
-            'titles': titles,
-            'fifa_rank': fifa_rank}
+            'appearances': int(appearances),
+            'titles': int(titles),
+            'fifa_rank': int(fifa_rank)}
         return final_dict
